@@ -1,6 +1,6 @@
-![picture alt](https://github.com/BLADEXTECH-R/.github/blob/main/BLADEXTECH.png?raw=true "Title is optional")
+![BLADEXTECH](https://github.com/BLADEXTECH-R/.github/blob/main/BLADEXTECH.png?raw=true "BLADEXTECH")
 
-<h1 style="text-align:center;">🎉WELCOME TO BLADEXTECH 🎉</h1>
+<h1 style="text-align:center;">🎉 WELCOME TO BLADEXTECH 🎉</h1>
 
 <p style="text-align:justify;">We are a private organization dedicated to webcaption innovation, with a strong focus on website and app development. Our mission is to make the handling better for the leading edge technologies.</p>
 
@@ -8,17 +8,36 @@
 
 We work with a wide range of modern technologies to deliver exceptional solutions. Here's a glimpse of the tools and frameworks we use:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original-wordmark.svg" height="120"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/livewire/livewire-original-wordmark.svg" height="50"/>
-  
+<div>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" height="50"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original-wordmark.svg" height="120"/>
+    </span>
+    <span style="display:inline-block; margin:10px; vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/livewire/livewire-original-wordmark.svg" height="50"/>
+    </span>
 </div>
+
+### 🏢 Organization Stats
+
+![](https://komarev.com/ghpvc/?username=BLADEXTECH-R)
 
 ### Guidelines for Members:
 
