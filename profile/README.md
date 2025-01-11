@@ -1,15 +1,35 @@
-<h1>Hi 👋, Welcome To BLADEXTECH</h1>
+![picture alt](https://github.com/BLADEXTECH-R/.github/blob/main/BLADEXTECH.png?raw=true "Title is optional")
 
-<p>Where Your Innovation Turns Into Reality</p>
+<h1 style="text-align:center;">🎉WELCOME TO BLADEXTECH 🎉</h1>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<p style="text-align:justify;">We are a private organization dedicated to webcaption innovation, with a strong focus on website and app development. Our mission is to make the handling better for the leading edge technologies.</p>
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BLADEXTECH-R&show_icons=true&locale=en" alt="BLADEXTECH-R" /></p>
+### 🚀 Technologies We Use
+
+We work with a wide range of modern technologies to deliver exceptional solutions. Here's a glimpse of the tools and frameworks we use:
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original-wordmark.svg" height="120"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/livewire/livewire-original-wordmark.svg" height="50"/>
+  
+</div>
+
+### Guidelines for Members:
+
+1. **🔒 Confidentiality**
+
+   All repositories and projects within this organization are private. Ensure no information is shared outside the organization. Protect our data and intellectual property at all times.
+
+2. **🤝 Collaboration**
+
+   Leverage GitHub tools like **Issues**, **Pull Requests**, and **Discussions** to collaborate effectively with your team. Clear communication and teamwork are key to our success!
+
+3. **📏 Standards**
+
+   Follow our internal development standards and protocols as outlined in the organization guidelines. Maintaining consistency and quality in our work is a shared responsibility.
