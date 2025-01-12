@@ -8,7 +8,7 @@
 
 We work with a wide range of modern technologies to deliver exceptional solutions. Here's a glimpse of the tools and frameworks we use:
 
-<div markdown="1" style="display:flex;">
+<div markdown="1" style="display:flex; gap:20px; flex-wrap: wrap;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
